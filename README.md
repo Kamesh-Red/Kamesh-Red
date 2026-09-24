@@ -31,9 +31,9 @@
 ## ■ About Me
 
 ```yaml
-name: Kamesh S
-education: B.Tech CSE (Data Science)
-role: Data Analyst Fresher
+Name: Kamesh S
+Education: B.Tech CSE (Data Science)
+Role: Data Analyst Fresher
 
 focus:
   - Data Analytics
@@ -84,7 +84,7 @@ Currently looking for opportunities to start my career as a **Data Analyst / Bus
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-**Git • GitHub • VS Code • Microsoft Excel**
+**Git • GitHub • Microsoft Excel**
 
 ---
 
