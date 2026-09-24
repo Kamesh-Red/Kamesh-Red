@@ -81,7 +81,7 @@ Currently looking for opportunities to start my career as a **Data Analyst / Bus
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 
 **Git • GitHub • Microsoft Excel**
