@@ -12,15 +12,15 @@
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://linkedin.com/in/kamesh-s-940100341">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kameshs2612@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Kamesh-Red">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -71,10 +71,6 @@ Currently looking for opportunities to start my career as a **Data Analyst / Bus
 **SQL • Advanced Excel • Power BI • Python • Pandas • NumPy • DAX • Data Cleaning • Data Validation • KPI Analysis**
 
 ### 📈 Visualization & BI
-
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi"/>
-</p>
 
 **Power BI • Excel Dashboards • Power Query • Pivot Tables • DAX • KPI Dashboards • Data Visualization**
 
@@ -210,6 +206,56 @@ Data-Driven Decisions
 
 ---
 
+## ■ Certifications & Learning
+
+### 📊 SQL for Data Analytics — Udemy
+
+**Udemy | Certificate of Completion**
+
+* SQL fundamentals and database concepts
+* Data retrieval and filtering
+* Aggregate functions
+* `GROUP BY` and `HAVING`
+* SQL Joins
+* Subqueries
+* String and date functions
+* Data analysis using SQL
+
+**Skills:** `SQL` `Data Analysis` `PostgreSQL` `Joins` `Subqueries`
+
+---
+
+### 📈 Advanced Excel for Data Analytics — Imarticus Learning
+
+**Imarticus Learning | Certificate**
+
+* Advanced Excel formulas
+* Data cleaning and data preparation
+* Lookup functions
+* Pivot Tables and Pivot Charts
+* Data analysis and reporting
+* Excel dashboards
+* Data visualization
+
+**Skills:** `Advanced Excel` `Data Cleaning` `Pivot Tables` `Data Analysis` `Dashboards`
+
+---
+
+### 📊 Deloitte Australia — Data Analytics Job Simulation
+
+**Forage | December 2025**
+
+* Data validation
+* Data analysis
+* Excel
+* Tableau
+* Dashboard development
+* Business-focused data insights
+
+> Practical job simulation focused on real-world data analytics tasks.
+
+---
+
 ## ■ Current Focus
 
 ```yaml
@@ -239,28 +285,11 @@ goal:
 
 ---
 
-## ■ Certifications & Learning
-
-### Deloitte Australia — Data Analytics Job Simulation
-
-**Forage | December 2025**
-
-* Data validation
-* Data analysis
-* Excel
-* Tableau
-* Dashboard development
-* Business-focused data insights
-
-> A practical job simulation focused on real-world data analytics tasks.
-
----
-
 ## ■ GitHub
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Kamesh-Red">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -278,15 +307,15 @@ goal:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://linkedin.com/in/kamesh-s-940100341">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kameshs2612@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Kamesh-Red">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -305,4 +334,5 @@ goal:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
 
